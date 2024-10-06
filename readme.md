@@ -33,3 +33,6 @@ permet d'enregistrer une modiffication en locale
 
 ## git checkout -b feature/nom-de-la-branche
  .Creer et se positionner dans la branche
+
+## git pull
+ .Permet de recupperer les modiffications faits en ligne vers locale
