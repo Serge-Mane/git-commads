@@ -23,3 +23,13 @@ permet de verifier les repertoires
 
 ## git log
 permet de voir l'historique des modiffications
+
+## git branch feature/nom-de-la-branche
+permet de creer une branche
+le mot feature est obligatoire pour creer une branche
+
+## git checkout feature/nom-de-la-branche
+se positionner dans ta branche de preference
+
+## git checkout -b feature/nom-de-la-branche
+Creer et se positionner dans la branche
